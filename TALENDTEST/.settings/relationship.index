@@ -1,0 +1,12 @@
+[ {
+  "baseItem" : {
+    "id" : "_nPqbANiZEe-kcNb9F-encA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_CVBJgNogEe-2T8ri1GIYww",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]

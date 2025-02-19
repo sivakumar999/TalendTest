@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_VhyxUNopEe-2T8ri1GIYww" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_VhyxUdopEe-2T8ri1GIYww" comment="" name="snow_conn_oauthProperties_clientSecret" prompt="snow_conn_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_VhyxUtopEe-2T8ri1GIYww" comment="" name="snow_conn_oauthProperties_oauthPassword" prompt="snow_conn_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_VhyxU9opEe-2T8ri1GIYww" comment="" name="snow_conn_oauthProperties_scope" prompt="snow_conn_oauthProperties_scope?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_VhyxVNopEe-2T8ri1GIYww" comment="" name="snow_conn_oauthProperties_clientId" prompt="snow_conn_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_VhyxVdopEe-2T8ri1GIYww" comment="" name="snow_conn_regionID" prompt="snow_conn_regionID?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_VhyxVtopEe-2T8ri1GIYww" comment="" name="snow_conn_account" prompt="snow_conn_account?" promptNeeded="false" repositoryContextId="" type="id_String" value="aobqrrr-gk76400"/>
+  <contextParameter xmi:id="_VhyxV9opEe-2T8ri1GIYww" comment="" name="snow_conn_oauthProperties_oauthUserName" prompt="snow_conn_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_VhyxWNopEe-2T8ri1GIYww" comment="" name="snow_conn_oauthProperties_oauthTokenEndpoint" prompt="snow_conn_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_VhyxWdopEe-2T8ri1GIYww" comment="" name="snow_conn_db" prompt="snow_conn_db?" promptNeeded="false" repositoryContextId="" type="id_String" value="test"/>
+  <contextParameter xmi:id="_VhyxWtopEe-2T8ri1GIYww" comment="" name="snow_conn_jdbcUrlSuffix" prompt="snow_conn_jdbcUrlSuffix?" promptNeeded="false" repositoryContextId="" type="id_String" value=".snowflakecomputing.com"/>
+  <contextParameter xmi:id="_VhyxW9opEe-2T8ri1GIYww" comment="" name="snow_conn_jdbcParameters" prompt="snow_conn_jdbcParameters?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_VhyxXNopEe-2T8ri1GIYww" comment="" name="snow_conn_warehouse" prompt="snow_conn_warehouse?" promptNeeded="false" repositoryContextId="" type="id_String" value="COMPUTE_WH"/>
+  <contextParameter xmi:id="_VhyxXdopEe-2T8ri1GIYww" comment="" name="snow_conn_keyAlias" prompt="snow_conn_keyAlias?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_VhyxXtopEe-2T8ri1GIYww" comment="" name="snow_conn_userPassword_userId" prompt="snow_conn_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="Snowflake999"/>
+  <contextParameter xmi:id="_VhyxX9opEe-2T8ri1GIYww" comment="" name="snow_conn_schemaName" prompt="snow_conn_schemaName?" promptNeeded="false" repositoryContextId="" type="id_String" value="siva"/>
+  <contextParameter xmi:id="_VhyxYNopEe-2T8ri1GIYww" comment="" name="snow_conn_role" prompt="snow_conn_role?" promptNeeded="false" repositoryContextId="" type="id_String" value="ACCOUNTADMIN"/>
+  <contextParameter xmi:id="_VhyxYdopEe-2T8ri1GIYww" comment="" name="snow_conn_loginTimeout" prompt="snow_conn_loginTimeout?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_VhyxYtopEe-2T8ri1GIYww" comment="" name="snow_conn_userPassword_password" prompt="snow_conn_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:U3PodtOdNdjeDBy98wxm849hChpnn8Q5Dfn9m5ZKnJZT2XfdoxAAwiFlcg=="/>
+</talendfile:ContextType>
